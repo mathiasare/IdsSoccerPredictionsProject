@@ -5,4 +5,4 @@ PRAGMA table_info(Match);
 
 
 PRAGMA table_info(Player);
-PRAGMA table_info(Player_Attributes);
+PRAGMA table_info(Team_Attributes);
